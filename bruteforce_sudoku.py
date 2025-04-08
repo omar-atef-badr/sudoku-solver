@@ -1,3 +1,5 @@
+#Uses bruteforce backtracking technique to solve sudoku
+
 import time
 
 def parse_sudoku(file_path):
