@@ -1,4 +1,5 @@
 #Uses bruteforce backtracking technique to solve sudoku
+#Simple implementation
 
 import time
 
